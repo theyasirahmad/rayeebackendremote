@@ -97,7 +97,7 @@
             </form>
             </div>
 
-            <div class="card" id="table">
+            <div class="card" id="table" >
                 <div class="card-header header-elements-inline">
                     <h5 class="card-title">Cost Details</h5>
                     <div class="header-elements">
