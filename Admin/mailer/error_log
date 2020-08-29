@@ -1,0 +1,98 @@
+[09-Jan-2020 20:53:31 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 9 Ja...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[09-Jan-2020 20:54:02 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 9 Ja...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[09-Jan-2020 20:54:04 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 9 Ja...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[09-Jan-2020 20:54:52 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 9 Ja...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 19:44:49 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 19:45:28 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 19:51:55 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 19:57:34 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(34): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 19:57:35 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(34): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 20:16:33 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 20:17:35 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 20:18:56 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 20:19:18 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
+[10-Jan-2020 20:19:37 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php:1845
+Stack trace:
+#0 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 10 J...', 'This is a multi...')
+#1 /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/raaye/public_html/mailer/index.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/raaye/public_html/mailer/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1845
